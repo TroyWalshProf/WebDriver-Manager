@@ -1,4 +1,4 @@
-[![Azure Pipelines](https://dev.azure.com/AxeDotNet/WebDriver-Manager/_apis/build/status/TroyWalshProf.WebDriver-Manager?branchName=master)](https://dev.azure.com/AxeDotNet/WebDriver-Manager/_build/latest?definitionId=3&branchName=master)[![Maven Central](https://img.shields.io/maven-central/v/com.github.webdriverextensions/webdriverextensions-maven-plugin.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3Acom.github.webdriverextensions)
+[![Azure Pipelines](https://dev.azure.com/AxeDotNet/WebDriver-Manager/_apis/build/status/TroyWalshProf.WebDriver-Manager?branchName=master)](https://dev.azure.com/AxeDotNet/WebDriver-Manager/_build/latest?definitionId=3&branchName=master)
 
 WebDriver Extensions Maven Plugin
 ===================
